@@ -3,3 +3,5 @@ temperature
 weather
 hex_unexplored
 hex_time
+hex_obstacle
+wandering_activities
